@@ -3,12 +3,12 @@
 </h2>
 
 <p align="center">
-    <img src="school_logo.png" alt="Lakjaya Kanishta School Logo" width="200"/>
+
 </p>
 
 A modern and responsive website built using **React** for Lakjaya Kanishta School. This project enhances the school's online presence, providing an intuitive and user-friendly interface for students, parents, and staff.
 
-## 📌 Table of Contents
+## 🔖 Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -17,7 +17,7 @@ A modern and responsive website built using **React** for Lakjaya Kanishta Schoo
 - [License](#-license)
 - [Contact](#-contact)
 
-## 🌟 Overview
+## 🧿 Overview
 This project delivers a seamless digital experience for the Lakjaya Kanishta School community. It features an easy-to-navigate UI, interactive components, and a responsive layout optimized for desktops and mobile devices.
 
 ## 🚀 Features
@@ -62,7 +62,7 @@ This project is open-source and available under the **MIT License**. See the [LI
 
 ## 📧 Contact
 For inquiries and support:
-- **Email:** [support@lakjayaschool.lk](mailto:support@lakjayaschool.lk)
+- **Email:** [support@mbssrilanka.lk](vikumknarangoda@gmail.com)
 - **GitHub:** [GitHub Repository](https://github.com/yourusername/lakjaya-school-website)
 
 ---
